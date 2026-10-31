@@ -34,8 +34,7 @@ I'm a software engineer focused on full-stack web development and building user-
 - Clean code and engineering best practices
 
 ## Contact
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
-- Portfolio: https://yourportfolio.com
+- Email: Akhilesh2720@gmail.com
+- LinkedIn: www.linkedin.com/in/akhilesh-wankhedea
 
 I’m open to internships, freelance work, and software engineering opportunities.
